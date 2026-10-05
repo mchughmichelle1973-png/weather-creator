@@ -1,0 +1,7 @@
+{
+  "name": "Weather Creator",
+  "description": "Meteorological simulation, tornado track designer, dynamic warning generation, and catastrophe impact assessment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
